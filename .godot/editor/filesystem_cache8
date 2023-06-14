@@ -1,0 +1,46 @@
+2a60927148abd1d33b818b535e306557
+::res://::1686769438
+default_env.tres::Environment::-1::1617276296::0::1::::<><>::
+icon.png::CompressedTexture2D::4531064109729387142::1617276296::1686769438::1::::<><>::
+README.md::TextFile::-1::1686769281::0::1::::<><>::
+::res://Dungeon Crawler Pack/::1617276296
+full spritesheet.png::CompressedTexture2D::6871348645626187193::1617276296::1686769438::1::::<><>::
+full tilemap.png::CompressedTexture2D::6661786104726307979::1617276296::1686769438::1::::<><>::
+::res://Dungeon Crawler Pack/effects (new)/::1617276296
+enemy_afterdead_explosion_anim_spritesheet.png::CompressedTexture2D::3980070800730260425::1617276296::1686769438::1::::<><>::
+hit_effect_anim_spritesheet.png::CompressedTexture2D::1428778831635521289::1617276296::1686769438::1::::<><>::
+::res://Dungeon Crawler Pack/enemies/::1617276296
+::res://Dungeon Crawler Pack/enemies/flying creature/::1617276296
+fly_anim_f0.png::CompressedTexture2D::1370492342526877213::1617276296::1686769438::1::::<><>::
+fly_anim_f1.png::CompressedTexture2D::3317891753399618806::1617276296::1686769438::1::::<><>::
+fly_anim_f2.png::CompressedTexture2D::3342794860619612472::1617276296::1686769438::1::::<><>::
+fly_anim_f3.png::CompressedTexture2D::7099410444361546690::1617276296::1686769438::1::::<><>::
+fly_anim_spritesheet.png::CompressedTexture2D::3415838576430667215::1617276296::1686769438::1::::<><>::
+::res://Dungeon Crawler Pack/heroes/::1617276296
+::res://Dungeon Crawler Pack/heroes/knight/::1617276296
+knight_idle_anim_f0.png::CompressedTexture2D::8397280281046705065::1617276296::1686769438::1::::<><>::
+knight_idle_anim_f1.png::CompressedTexture2D::8244373116730745360::1617276296::1686769438::1::::<><>::
+knight_idle_anim_f2.png::CompressedTexture2D::4767355282184862296::1617276296::1686769438::1::::<><>::
+knight_idle_anim_f3.png::CompressedTexture2D::6178934577484891245::1617276296::1686769438::1::::<><>::
+knight_idle_anim_f4.png::CompressedTexture2D::1301763617520191189::1617276296::1686769438::1::::<><>::
+knight_idle_anim_f5.png::CompressedTexture2D::8839196744638815486::1617276296::1686769438::1::::<><>::
+knight_idle_spritesheet.png::CompressedTexture2D::7931485494213317535::1617276296::1686769438::1::::<><>::
+knight_run_anim_f0.png::CompressedTexture2D::7024290944637162702::1617276296::1686769438::1::::<><>::
+knight_run_anim_f1.png::CompressedTexture2D::2977035872420901007::1617276296::1686769438::1::::<><>::
+knight_run_anim_f2.png::CompressedTexture2D::1206379858271900871::1617276296::1686769438::1::::<><>::
+knight_run_anim_f3.png::CompressedTexture2D::3232658796609814074::1617276296::1686769438::1::::<><>::
+knight_run_anim_f4.png::CompressedTexture2D::4823680770070948186::1617276296::1686769438::1::::<><>::
+knight_run_anim_f5.png::CompressedTexture2D::5414209920741089177::1617276296::1686769438::1::::<><>::
+knight_run_spritesheet.png::CompressedTexture2D::2296755639880755305::1617276296::1686769438::1::::<><>::
+weapon_sword_1.png::CompressedTexture2D::8634651356459564027::1617276296::1686769438::1::::<><>::
+::res://Dungeon Crawler Pack/ui (new)/::1617276296
+health_ui.png::CompressedTexture2D::2740609210087806452::1617276296::1686769438::1::::<><>::
+::res://resources/::1617276296
+Player.gd::GDScript::-1::1617276296::0::1::::<>KinematicBody2D<>::
+Player.tscn::PackedScene::-1::1617276296::0::1::::<><>::res://resources/Player.gd
+::res://resources/levels/::1617276296
+LevelBase.tscn::PackedScene::-1::1617276296::0::1::::<><>::
+::res://resources/UI/::1617276296
+healthbar_border.png::CompressedTexture2D::2219737389831630702::1617276296::1686769438::1::::<><>::
+healthbar_empty.png::CompressedTexture2D::7826678020509116555::1617276296::1686769438::1::::<><>::
+healthbar_full.png::CompressedTexture2D::3957301521168243434::1617276296::1686769438::1::::<><>::
